@@ -1,0 +1,1 @@
+Inclusion d'une ligne de texte dans fichier.txt
