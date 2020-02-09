@@ -11,5 +11,5 @@ return "c"
 }
 
 function() {
-return "d"
+return "DDDDDD"
 }
