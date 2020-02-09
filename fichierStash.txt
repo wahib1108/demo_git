@@ -5,3 +5,11 @@ function() {
 function() {
 return "B"
 }
+
+function() {
+return "c"
+}
+
+function() {
+return "d"
+}
