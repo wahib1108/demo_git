@@ -1,7 +1,7 @@
 function() {
- return "a"
+ return "A"
 }
 
 function() {
-return "b"
+return "B"
 }
